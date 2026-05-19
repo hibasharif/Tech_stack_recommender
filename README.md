@@ -6,6 +6,8 @@ An interactive AI-inspired web application that helps users discover the most su
 
 🔗 Live Project: https://claude.ai/public/artifacts/2f953a40-5751-4809-8f28-90a30d28a5af
 
+also run second file app.py (which is second version of this project)
+
 ## 📌 Features
 
 * Interactive and responsive UI
